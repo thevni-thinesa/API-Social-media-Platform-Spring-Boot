@@ -1,1 +1,1 @@
-# API-Social-media-Platform-Spring-Boot
+# API_for_Social_media_Platform
